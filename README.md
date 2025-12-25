@@ -2,6 +2,8 @@
 
 This project implements a robust computer vision pipeline to detect floods in images using a Fine-Tuned **Vision Transformer (ViT)**. It leverages **LoRA (Low-Rank Adaptation)** for parameter-efficient fine-tuning on proper binary classification.
 
+![Demo](demo.png)
+
 ## 🚀 Features
 
 *   **State-of-the-Art Model**: Uses `google/vit-base-patch16-224-in21k` as the backbone.
