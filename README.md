@@ -1,14 +1,3 @@
----
-title: Flood Detection ViT
-emoji: 🌊
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 5.0.0
-app_file: flood_detection_vit.py
-pinned: false
----
-
 # 🌊 Flood Detection using Vision Transformers (ViT)
 
 This project implements a robust computer vision pipeline to detect floods in images using a Fine-Tuned **Vision Transformer (ViT)**. It leverages **LoRA (Low-Rank Adaptation)** for parameter-efficient fine-tuning on proper binary classification.
