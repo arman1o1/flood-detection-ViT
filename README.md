@@ -37,7 +37,7 @@ python flood_detection_vit.py
     *   Downloads the dataset.
     *   Fine-tunes the ViT model for 3 epochs.
     *   Saves the adapters locally.
-3.  **Deploy**: Launches a **Gradio** web interface (local & public link) where you can upload images to test the model.
+3.  **Deploy**: Launches a **Gradio** web interface (local/public link) where you can upload images to test the model.
 
 ## 📚 Technical Details
 
