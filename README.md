@@ -82,7 +82,7 @@ python flood_detection_vit.py
 
 ## ⚙️ Technical Details
 
-* **Base Model:** `google/vit-base-patch16-224-in21k`
+* **Base Model:** [`google/vit-base-patch16-224-in21k`](https://huggingface.co/google/vit-base-patch16-224-in21k)
 * **Task:** Binary Image Classification
 * **LoRA Configuration:**
 
