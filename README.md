@@ -19,7 +19,7 @@ The model is trained using **LoRA (Low-Rank Adaptation)** for parameter-efficien
 
 ## ✨ Features
 
-* **Vision Transformer Backbone:** Uses `google/vit-base-patch16-224-in21k`.
+* **Vision Transformer Backbone:** Uses [`google/vit-base-patch16-224-in21k`](https://huggingface.co/google/vit-base-patch16-224-in21k).
 * **Parameter-Efficient Training:** Fine-tunes ~0.6% of model parameters using LoRA.
 * **Automated Dataset Handling:** Downloads the *Louisiana Flood 2016* dataset automatically via `kagglehub`.
 * **Interactive Inference:** Upload images and get predictions via a Gradio UI.
